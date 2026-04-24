@@ -2,6 +2,8 @@
 
 Ten avant-garde cartographic explorations of **Yubeng Village** (雨崩村), Yunnan, China. Each iteration is a distinct visual direction for the Alpinist map interface, built with Mapbox GL JS v3 or Three.js.
 
+**Live demo:** https://alpinist-map-lab.vercel.app
+
 ## Quick Start
 
 ```bash
@@ -25,6 +27,7 @@ Visit `http://localhost:5174` to open the exploration menu.
 | 08 | `/v8` | Thermal Vision heatmap |
 | 09 | `/v9` | Ethereal Frosted Pastel |
 | 10 | `/v10` | Liquid Chrome (pure Three.js) |
+| 11 | `/v11` | Unified Map (destination switcher) |
 
 ## Environment
 
