@@ -1,0 +1,162 @@
+{
+  "slug": "kumano-kodo",
+  "name": "Kumano Kodo",
+  "country": "Japan",
+  "category": "trekking",
+  "seed": {
+    "lng": 135.773,
+    "lat": 33.84
+  },
+  "bbox": {
+    "raw": {
+      "west": 135.7522099,
+      "south": 33.8128214,
+      "east": 135.8062135,
+      "north": 33.8605018
+    },
+    "padded": {
+      "west": 135.74680954,
+      "south": 33.808053359999995,
+      "east": 135.81161386000002,
+      "north": 33.86526984
+    }
+  },
+  "camera": {
+    "center": [
+      135.77921170000002,
+      33.8366616
+    ],
+    "zoom": 13
+  },
+  "dem": {
+    "source": "mapbox.terrain-rgb",
+    "zoom": 13,
+    "tile_size": 512,
+    "tiles": [
+      {
+        "z": 13,
+        "x": 7184,
+        "y": 3276
+      },
+      {
+        "z": 13,
+        "x": 7185,
+        "y": 3276
+      },
+      {
+        "z": 13,
+        "x": 7186,
+        "y": 3276
+      },
+      {
+        "z": 13,
+        "x": 7184,
+        "y": 3277
+      },
+      {
+        "z": 13,
+        "x": 7185,
+        "y": 3277
+      },
+      {
+        "z": 13,
+        "x": 7186,
+        "y": 3277
+      }
+    ],
+    "tile_grid": {
+      "x_min": 7184,
+      "y_min": 3276,
+      "x_max": 7186,
+      "y_max": 3277
+    },
+    "image": {
+      "path": "terrain.png",
+      "encoding": "mapbox-terrain-rgb",
+      "bounds": {
+        "west": 135.703125,
+        "south": 33.797408767572485,
+        "east": 135.8349609375,
+        "north": 33.87041555094183
+      },
+      "width": 1536,
+      "height": 1024
+    }
+  },
+  "trails": [],
+  "hotels": [
+    {
+      "lng": 135.7645992,
+      "lat": 33.854871,
+      "name": "Sangen jaya \u4e09\u8ed2\u8336\u5c4b\u8de1 \u3014\u718a\u91ce\u53e4\u9053\u3015",
+      "stars": null
+    },
+    {
+      "lng": 135.7577757,
+      "lat": 33.8605018,
+      "name": "Fushiogami oji",
+      "stars": null
+    },
+    {
+      "lng": 135.7732516,
+      "lat": 33.8130073,
+      "name": "\u6c11\u5bbf\u3059\u307f\u3084",
+      "stars": null
+    },
+    {
+      "lng": 135.8062135,
+      "lat": 33.8464034,
+      "name": "Unnamed lodging",
+      "stars": null
+    },
+    {
+      "lng": 135.7720313,
+      "lat": 33.8133503,
+      "name": "\u6c11\u5bbf \u7acb\u77f3",
+      "stars": null
+    },
+    {
+      "lng": 135.7727183,
+      "lat": 33.813115,
+      "name": "\u65c5\u306e\u5bbf \u3057\u3070",
+      "stars": null
+    },
+    {
+      "lng": 135.7522099,
+      "lat": 33.8227425,
+      "name": "Yunosato",
+      "stars": null
+    },
+    {
+      "lng": 135.771961,
+      "lat": 33.8364622,
+      "name": "Unnamed lodging",
+      "stars": null
+    },
+    {
+      "lng": 135.7720702,
+      "lat": 33.8358923,
+      "name": "\u5bbf\u5c4b\u308c\u3082\u3093",
+      "stars": null
+    },
+    {
+      "lng": 135.7743552,
+      "lat": 33.8128214,
+      "name": "Ashita-no-Mori",
+      "stars": null
+    },
+    {
+      "lng": 135.7582022,
+      "lat": 33.8296502,
+      "name": "j hoppers",
+      "stars": null
+    },
+    {
+      "lng": 135.7717997,
+      "lat": 33.83659,
+      "name": "\u30b2\u30b9\u30c8\u30cf\u30a6\u30b9\u7d50",
+      "stars": null
+    }
+  ],
+  "generated_at": 1776950862
+}

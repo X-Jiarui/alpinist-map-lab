@@ -1,0 +1,122 @@
+[
+  {
+    "slug": "annapurna-circuit",
+    "name": "Annapurna Circuit",
+    "country": "Nepal",
+    "category": "trekking"
+  },
+  {
+    "slug": "chamonix",
+    "name": "Chamonix",
+    "country": "France",
+    "category": "skiing"
+  },
+  {
+    "slug": "cortina-dampezzo",
+    "name": "Cortina d'Ampezzo",
+    "country": "Italy",
+    "category": "skiing"
+  },
+  {
+    "slug": "everest-base-camp",
+    "name": "Everest Base Camp",
+    "country": "Nepal",
+    "category": "trekking"
+  },
+  {
+    "slug": "gr20",
+    "name": "GR20",
+    "country": "Corsica, France",
+    "category": "trekking"
+  },
+  {
+    "slug": "hakuba",
+    "name": "Hakuba",
+    "country": "Japan",
+    "category": "skiing"
+  },
+  {
+    "slug": "haute-route",
+    "name": "Haute Route",
+    "country": "Switzerland",
+    "category": "trekking"
+  },
+  {
+    "slug": "kumano-kodo",
+    "name": "Kumano Kodo",
+    "country": "Japan",
+    "category": "trekking"
+  },
+  {
+    "slug": "laugavegur-trail",
+    "name": "Laugavegur Trail",
+    "country": "Iceland",
+    "category": "trekking"
+  },
+  {
+    "slug": "lech-zurs",
+    "name": "Lech-Z\u00fcrs",
+    "country": "Austria",
+    "category": "skiing"
+  },
+  {
+    "slug": "milford-track",
+    "name": "Milford Track",
+    "country": "New Zealand",
+    "category": "trekking"
+  },
+  {
+    "slug": "niseko",
+    "name": "Niseko",
+    "country": "Japan",
+    "category": "skiing"
+  },
+  {
+    "slug": "st-anton",
+    "name": "St. Anton",
+    "country": "Austria",
+    "category": "skiing"
+  },
+  {
+    "slug": "torres-del-paine",
+    "name": "Torres del Paine",
+    "country": "Chile",
+    "category": "trekking"
+  },
+  {
+    "slug": "tour-du-mont-blanc",
+    "name": "Tour du Mont Blanc",
+    "country": "France/Italy/Switzerland",
+    "category": "trekking"
+  },
+  {
+    "slug": "val-disere",
+    "name": "Val d'Is\u00e8re",
+    "country": "France",
+    "category": "skiing"
+  },
+  {
+    "slug": "verbier",
+    "name": "Verbier",
+    "country": "Switzerland",
+    "category": "skiing"
+  },
+  {
+    "slug": "whistler",
+    "name": "Whistler",
+    "country": "Canada",
+    "category": "skiing"
+  },
+  {
+    "slug": "yubeng-village",
+    "name": "Yubeng Village",
+    "country": "China",
+    "category": "trekking"
+  },
+  {
+    "slug": "zermatt",
+    "name": "Zermatt",
+    "country": "Switzerland",
+    "category": "skiing"
+  }
+]

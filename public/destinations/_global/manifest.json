@@ -1,0 +1,18 @@
+{
+  "kind": "global",
+  "source": "mapbox.terrain-rgb",
+  "source_zoom": 2,
+  "source_tiles": 16,
+  "projection": "equirectangular",
+  "encoding": "mapbox-terrain-rgb",
+  "bounds": {
+    "west": -180,
+    "south": -90,
+    "east": 180,
+    "north": 90
+  },
+  "width": 2048,
+  "height": 1024,
+  "image": "terrain.png",
+  "generated_at": 1776955791
+}

@@ -1,0 +1,15 @@
+{
+  "kind": "coastline-mask",
+  "source": "https://raw.githubusercontent.com/martynafford/natural-earth-geojson/master/110m/physical/ne_110m_land.json",
+  "projection": "equirectangular",
+  "bounds": {
+    "west": -180,
+    "south": -90,
+    "east": 180,
+    "north": 90
+  },
+  "width": 2048,
+  "height": 1024,
+  "encoding": "grayscale; 255=land, 0=ocean, feathered by 1.2px gaussian",
+  "generated_at": 1777017610
+}
